@@ -1,0 +1,11 @@
+name,description,price,teacher
+Math,Mathematics Course,100,2
+Science,Science Course,150,3
+History,History Course,120,2
+English,English Language Course,130,3
+Art,Art History Course,110,2
+Physics,Physics Course,200,1
+Chemistry,Chemistry Course,180,3
+Biology,Biology Course,160,1
+Geography,Geography Course,140,2
+Computer Science,Computer Science Course,220,3

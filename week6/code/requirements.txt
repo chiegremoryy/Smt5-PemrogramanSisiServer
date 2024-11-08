@@ -1,0 +1,4 @@
+django
+psycopg2-binary
+pillow
+django-silk==5.1.0

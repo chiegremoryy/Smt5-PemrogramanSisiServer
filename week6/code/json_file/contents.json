@@ -1,0 +1,14 @@
+[
+    {
+        "course_id": "1",
+        "video_url": "http://example.com/video1",
+        "name": "Video 1",
+        "description": "Description for video 1"
+    },
+    {
+        "course_id": "2",
+        "video_url": "http://example.com/video2",
+        "name": "Video 2",
+        "description": "Description for video 2"
+    }
+]
